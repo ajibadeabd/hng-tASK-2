@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8a2e65d4.chunk.css",
+    "main.js": "/static/js/main.10e95441.chunk.js",
+    "main.js.map": "/static/js/main.10e95441.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.0ce1cbd1.js",
+    "runtime-main.js.map": "/static/js/runtime-main.0ce1cbd1.js.map",
+    "static/css/2.6f338a1f.chunk.css": "/static/css/2.6f338a1f.chunk.css",
+    "static/js/2.a11a4c56.chunk.js": "/static/js/2.a11a4c56.chunk.js",
+    "static/js/2.a11a4c56.chunk.js.map": "/static/js/2.a11a4c56.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.6f338a1f.chunk.css.map": "/static/css/2.6f338a1f.chunk.css.map",
+    "static/css/main.8a2e65d4.chunk.css.map": "/static/css/main.8a2e65d4.chunk.css.map",
+    "static/js/2.a11a4c56.chunk.js.LICENSE.txt": "/static/js/2.a11a4c56.chunk.js.LICENSE.txt",
+    "static/media/Elite_02 2.b11ac396.svg": "/static/media/Elite_02 2.b11ac396.svg",
+    "static/media/Elite_Logo.4e718e14.svg": "/static/media/Elite_Logo.4e718e14.svg",
+    "static/media/OriginateLogoOriginal.9d4b9e3c.png": "/static/media/OriginateLogoOriginal.9d4b9e3c.png",
+    "static/media/OriginateOrignal.5b152969.png": "/static/media/OriginateOrignal.5b152969.png",
+    "static/media/components.css": "/static/media/treasure-new-bg.46d4a153.svg",
+    "static/media/emergency-plan-2.6855725.5251461d.svg": "/static/media/emergency-plan-2.6855725.5251461d.svg",
+    "static/media/fire.81129225.svg": "/static/media/fire.81129225.svg",
+    "static/media/giftbox-white.90fb8b4.74cc724a.svg": "/static/media/giftbox-white.90fb8b4.74cc724a.svg",
+    "static/media/mastercard.9a65ce05.svg": "/static/media/mastercard.9a65ce05.svg",
+    "static/media/naira_funds_blue.77b50e2.4e7cb9b3.svg": "/static/media/naira_funds_blue.77b50e2.4e7cb9b3.svg",
+    "static/media/plan.bffb472.ef9c78e8.svg": "/static/media/plan.bffb472.ef9c78e8.svg",
+    "static/media/saving-plans.8ae6bb5.0f1fd812.svg": "/static/media/saving-plans.8ae6bb5.0f1fd812.svg",
+    "static/media/savingstime.93586c68.svg": "/static/media/savingstime.93586c68.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0ce1cbd1.js",
+    "static/css/2.6f338a1f.chunk.css",
+    "static/js/2.a11a4c56.chunk.js",
+    "static/css/main.8a2e65d4.chunk.css",
+    "static/js/main.10e95441.chunk.js"
+  ]
+}

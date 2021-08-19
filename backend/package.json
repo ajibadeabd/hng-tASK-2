@@ -1,0 +1,39 @@
+{
+  "name": "hng",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node -r dotenv/config server",
+    "dev": "nodemon -r dotenv/config server"
+  },
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "convert-csv-to-json": "^1.2.0",
+    "cors": "^2.8.5",
+    "csv2json": "^2.0.2",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "express-async-errors": "^3.1.1",
+    "fs": "^0.0.1-security",
+    "helmet": "^4.2.0",
+    "html-to-text": "^6.0.0",
+    "jsonwebtoken": "^8.5.1",
+    "lodash": "^4.17.20",
+    "moment": "^2.29.1",
+    "mongoose": "^5.11.5",
+    "morgan": "^1.10.0",
+    "nodemailer": "^6.4.16",
+    "otp-generator": "^2.0.0",
+    "passport": "^0.4.1",
+    "passport-jwt": "^4.0.0",
+    "pug": "^3.0.0",
+    "puppeteer": "^10.1.0",
+    "redis": "^3.1.2",
+    "uuid": "^8.3.2",
+    "validator": "^13.5.1"
+  }
+}
